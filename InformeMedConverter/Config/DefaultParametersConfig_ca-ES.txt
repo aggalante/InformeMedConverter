@@ -1,0 +1,66 @@
+B;Glucosa;mg/dL
+B;Urea;mg/dL
+B;Creatinini;mg/dL
+B;FG;ml/min/1,7
+B;Colesterol;mg/dL
+B;Colesterol HDL;mg/dL
+B;Colesterol LDL;mg/dL
+B;TG;mg/dL
+B;Urat;mg/dL
+B;AST;U/L
+B;ALT;U/L
+B;GGT;U/L
+B;LDH;U/L
+B;Bilirubina;mg/dL
+B;CK;U/L
+B;FA;U/L
+B;Albumina;g/dL
+B;Proteïna;g/dL
+B;Calci;mg/dL
+B;PCR;mg/dL
+B;Sodi;mEq/dL
+B;Potassi;mEq/dL
+B;Ferritina;ng/mL
+B;Transferrina;mg/mL
+B;Ferro;ug/mL
+B;IST;%
+B;vitB12;pg/mL
+B;Àcid fòlic;ng/mL
+B;Pro-BNP;
+MT;Alfa-fetoproteïna;ug/L
+TRO;pH
+TRO;Bilirubina
+TRO;Esterasa leucocítica
+TRO;Glucosa
+TRO;Hb
+TRO;Acetoacetat
+TRO;Nitrit
+TRO;Proteïna
+TRO;Urobilinogen
+SO;Bacterias
+SO;Cel epitelials
+SO;Eritrócits;per camp
+SO;Leucòcits;per camp
+SO;Cristals
+H;Eritrócits;10^12/L
+H;Hemoglobina;g/dL
+H;Hematòcrit;%
+H;VCM;fL
+H;HVME;pg
+H;CCMH;g/dL
+H;Eritrócits(RDW);%
+H;Leucòcits;10^9/L
+H;Neutròfils fr;%
+H;Limfòcits fr;%
+H;Monòcits fr;%
+H;Eosinòfils fr;%
+H;Basòfils fr;%
+H;Neutròfils c;10^9/L
+H;Limfòcits c;10^9/L
+H;Monòcits c;10^9/L
+H;Eosinòfils c;10^9/L
+H;Basòfils c;10^9/L
+H;Plaquetes;10^9/L
+H;Plaquetes (ADP);fL
+H;Plaquetes (VPM);fL
+U;Troponina;ng/L
